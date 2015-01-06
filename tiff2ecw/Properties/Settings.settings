@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="tiff2ecw.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="imaginePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\Intergraph\ERDAS IMAGINE 2014</Value>
+    </Setting>
+    <Setting Name="connString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=isss,1433;Initial Catalog=ISSS;Integrated Security=false;User ID=sa;Password=P@ssw0rd</Value>
+    </Setting>
+    <Setting Name="thumbnailSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">150</Value>
+    </Setting>
+    <Setting Name="acldbPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Users\Desktop</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
